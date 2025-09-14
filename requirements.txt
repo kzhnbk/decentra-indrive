@@ -1,0 +1,6 @@
+git+https://github.com/openai/CLIP.git
+torch
+Pillow
+ultralytics
+opencv-python
+matplotlib
