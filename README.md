@@ -19,5 +19,5 @@ project/
 │
 ├── requirements.txt
 ├── README.md
-└── main.py          # ваш основной скрипт (пример)
+└── main.py
 ~~~
