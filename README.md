@@ -1,4 +1,4 @@
-# inDrive
+# inDrive (1 Case)
 
 ## ⚙️ Установка
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 ~~~
-project/
+decentra-indrive/
 │
 ├── requirements.txt
 ├── README.md
