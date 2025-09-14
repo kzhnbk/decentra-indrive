@@ -14,8 +14,10 @@ venv\Scripts\activate     # для Windows
 pip install -r requirements.txt
 ```
 
+~~~
 project/
 │
 ├── requirements.txt
 ├── README.md
 └── main.py          # ваш основной скрипт (пример)
+~~~
